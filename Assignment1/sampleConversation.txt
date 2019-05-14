@@ -1,0 +1,74 @@
+0A: yoyoman: Yo man, my name is yoyoman, and I am a rapper. I was programmed by Shih-Hao Yeh. You can contact him at shihhao@uw.edu. What's up dude?
+
+0B: Joe: My name is Joe, and I'm a Pychotherapist.   I was programmed by Tsung Da Kuo. If you don't like the way I deal, contact him.  How can I help you?
+
+=== CYCLE FEATURE ===
+1A: yoyoman: Do you know how to rap?
+
+1B: Joe: Yes I know how to rap.
+
+=== RANDOM-CHOICE ===
+2A: yoyoman: All right, so?
+
+2B: Joe: How do you feel today?
+
+3A: yoyoman: I will tell you later.
+
+3B: Joe: OK, that's great. 
+
+=== CYCLE FEATURE ===
+4A: yoyoman: Wanna rap?
+
+4B: Joe: Do you want to play a game?
+
+5A: yoyoman: Do you?
+
+5B: Joe: Yes I do
+
+6A: yoyoman: I am not sure.
+
+6B: Joe: Why you are not sure.
+
+=== RANDOM-CHOICE ===
+7A: yoyoman: Who cares?
+
+7B: Joe: Tell me about your day?
+
+8A: yoyoman: OK... I will Tell you about my day later...
+
+8B: Joe: I feel like talking something else.
+
+=== MEMORY FEATURE (WILL BE USED LATER) ===
+9A: yoyoman: I also feel like talking something else.
+
+9B: Joe: Why do you want to see me?
+
+=== RANDOM-CHOICE ===
+10A: yoyoman: You don't know why?
+
+10B: Joe: Just tell me what you care about.
+
+=== MEMORY FEATURE (MENTIONED BEFORE) ===
+11A: yoyoman: I am talking something else. Are you with me?
+
+11B: Joe: Why you are talking something else Are me with you.
+
+=== RANDOM-CHOICE ===
+12A: yoyoman: Don't ask me, ask yourself!
+
+12B: Joe: Just tell me what you want.
+
+=== CYCLE FEATURE ===
+13A: yoyoman: Who is your favorate rapper?
+
+13B: Joe: I see
+
+=== CYCLE FEATURE ===
+14A: yoyoman: This is insane.
+
+14B: Joe: Need some help?
+
+=== CYCLE FEATURE ===
+15A: yoyoman: I can't hear you.
+
+15B: Joe: Do you want to talk about something else?

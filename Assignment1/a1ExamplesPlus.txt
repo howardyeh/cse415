@@ -1,0 +1,40 @@
+print(five_x_cubed_plus_1(2))
+output :
+41
+
+print(pair_off([2, 5, 1.5, 100, 3, 8, 7, 1, 1, 0, -2]))
+output : 
+[[2, 5], [1.5, 100], [3, 8], [7, 1], [1, 0], [-2]]
+print(pair_off([2, 5]))
+output :
+[[2, 5]]
+print(pair_off([1,2,3,4,5,6,7,8,9,10,11]))
+output :
+[[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11]]
+
+
+
+
+print(mystery_code("abc Iz th1s Secure? n0, no, 9!"))
+output : 
+TUV bS MA1L lXVNKX? G0, GH, 9!
+print(mystery_code("yoyo H0H1i2i3"))
+output :
+RHRH a0a1B2B3
+print(mystery_code("If you ArE 3 Years olD, What WILL YOU DO?"))
+output :
+bY RHN tKx 3 rXTKL HEw, pATM pbee rhn wh?
+
+
+
+
+print(past_tense(['program', 'debug', 'execute', 'crash', 'repeat', 'eat']))
+output : 
+['programmed', 'debugged', 'executed', 'crashed', 'repeated', 'ate']
+print(past_tense(['is']))
+output :
+['was']
+print(past_tense(['are', 'go', 'run', 'hug', 'kiss']))
+output :
+['were', 'went', 'ran', 'hugged', 'kissed']
+
